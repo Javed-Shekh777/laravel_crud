@@ -1,0 +1,12 @@
+@if()   @endif
+@if()   @else   @endif  
+@if()   @elseif()  @endif
+@if()   @elseif()  @else @endif
+
+
+@unless()   @endunless             // Use when given consition will be wrong 
+
+@isset()  @endisset                // Execute when given variable is settled.
+
+@for(initialization ; condition ; INCR/DECR) @endfor
+
